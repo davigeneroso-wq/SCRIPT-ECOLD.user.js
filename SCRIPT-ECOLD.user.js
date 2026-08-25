@@ -2,8 +2,8 @@
 // @name         🚀 PCP e-Cold AUTO v4
 // @namespace    pcp.ecold
 // @version      4.0
-// @updateURL    https://raw.githubusercontent.com/daviegeneroso-wq/pcp-repom/main/SCRIPT%20ECOLD.user.js
-// @downloadURL  https://raw.githubusercontent.com/daviegeneroso-wq/pcp-repom/main/SCRIPT%20ECOLD.user.js
+// @updateURL    https://raw.githubusercontent.com/davigeneroso-wq/pcp-repom/main/SCRIPT%20ECOLD.user.js
+// @downloadURL  https://raw.githubusercontent.com/davigeneroso-wq/pcp-repom/main/SCRIPT%20ECOLD.user.js
 // @description  Scanner NF-e + Conversão Automática + Pesquisa + Valores + Total + Download
 // @match        https://webnfe.e-datacenter.nddigital.com.br/*
 // @grant        none
