@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         🚀 PCP e-Cold AUTO v4
 // @namespace    pcp.ecold
-// @version      4.0
+// @version      4.1
 // @updateURL    https://raw.githubusercontent.com/davigeneroso-wq/SCRIPT-ECOLD.user.js/main/SCRIPT-ECOLD.user.js
 // @downloadURL  https://raw.githubusercontent.com/davigeneroso-wq/SCRIPT-ECOLD.user.js/main/SCRIPT-ECOLD.user.js
 // @description  Scanner NF-e + Conversão Automática + Pesquisa + Valores + Total + Download
